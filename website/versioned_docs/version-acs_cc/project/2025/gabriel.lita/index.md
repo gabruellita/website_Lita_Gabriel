@@ -143,7 +143,7 @@ If the basic functionality is successfully implemented, the project could be ext
 ---
 
 ## Schematics Diagram
-![SchematicsDiagram](schematic_final.webp)
+![SchematicsDiagram](schematic_final_background.svg)
 
 ---
 
