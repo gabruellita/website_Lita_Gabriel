@@ -206,12 +206,13 @@ Rust will be used for firmware development, utilizing asynchronous programming w
 
 ## Photos
 
-![Hardware Photo](poza_hard.webp)
+![Hardware Photo](final_project_photo.webp)
 
 ---
 
 ## Links
 
+- Video Link of the device working: https://youtu.be/8vQ_hNDtamI?si=suAuZD4rEEmw9f1n
 - HD44780-driver: https://crates.io/crates/hd44780-driver
 -  DFPlayer Mini Command Reference: https://wiki.dfrobot.com/DFPlayer_Mini_SKU_DFR0299#Getting_Started
 - LCD 1602 with I2C Guide: https://lastminuteengineers.com/i2c-lcd-arduino-tutorial/
