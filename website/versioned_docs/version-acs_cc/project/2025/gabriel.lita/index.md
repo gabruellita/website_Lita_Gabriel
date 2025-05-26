@@ -216,3 +216,4 @@ Rust will be used for firmware development, utilizing asynchronous programming w
 -  DFPlayer Mini Command Reference: https://wiki.dfrobot.com/DFPlayer_Mini_SKU_DFR0299#Getting_Started
 - LCD 1602 with I2C Guide: https://lastminuteengineers.com/i2c-lcd-arduino-tutorial/
 
+
