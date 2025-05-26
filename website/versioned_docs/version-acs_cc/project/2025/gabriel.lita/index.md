@@ -217,3 +217,5 @@ Rust will be used for firmware development, utilizing asynchronous programming w
 - LCD 1602 with I2C Guide: https://lastminuteengineers.com/i2c-lcd-arduino-tutorial/
 
 
+
+
